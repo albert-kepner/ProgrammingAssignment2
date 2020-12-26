@@ -13,6 +13,7 @@ the R language and how they can be manipulated to preserve state inside
 of an R object.
 
 ### Example: Caching the Mean of a Vector
+###
 
 In this example we introduce the `<<-` operator which can be used to
 assign a value to an object in an environment that is different from the
